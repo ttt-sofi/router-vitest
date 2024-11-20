@@ -1,0 +1,8 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`AboutView > Probando la existencia del componente o vista AboutView  1`] = `
+"<div class="about">
+  <h1>Vista de About</h1>
+  <p>Esta es la vista de sobre</p>
+</div>"
+`;

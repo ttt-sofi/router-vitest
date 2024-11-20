@@ -1,0 +1,26 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`HomeView > Debería renderizar correctamente y coincidir con el snapshot 1`] = `
+"<main>
+  <div class="posts">
+    <h1>Vista de Posts</h1>
+    <ul>
+      <li>Post 1</li>
+      <li>Post 2</li>
+      <li>Post 3</li>
+      <li>Post 4</li>
+    </ul>
+  </div>
+  <div class="contact">
+    <h1>Vista de Contacto</h1>
+    <p>Esta es la vista de contacto</p>
+  </div>
+  <div class="about">
+    <h1>Vista de About</h1>
+    <p>Esta es la vista de sobre</p>
+  </div>
+  <div>
+    <h1>Hello Vite!</h1>
+  </div>
+</main>"
+`;

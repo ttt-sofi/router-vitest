@@ -1,0 +1,8 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`ContactView > Probando la existencia del componente o vista ContactView  1`] = `
+"<div class="contact">
+  <h1>Vista de Contacto</h1>
+  <p>Esta es la vista de contacto</p>
+</div>"
+`;
